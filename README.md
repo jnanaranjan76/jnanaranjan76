@@ -1,5 +1,6 @@
 <div align="center">
-
+<br>
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=200&section=header&text=Jnanaranjan%20Panda&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Java%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" alt="header banner"/>
 
 <a href="https://git.io/typing-svg">
