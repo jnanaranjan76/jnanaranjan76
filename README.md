@@ -1,8 +1,7 @@
 <div align="center">
-<br>
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=200&section=header&text=Jnanaranjan%20Panda&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Java%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" alt="header banner"/>
-<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:38BDF8&height=250&section=header&text=Jnanaranjan%20Panda&fontSize=38&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=Java%20Full%20Stack%20Developer&descAlignY=52&descAlign=50&descSize=18" width="100%" alt="header banner"/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Building+an+AI+Code+Review+Tool;Building+a+Chess+Game+in+Java;Open+to+Work+Opportunities" alt="Typing SVG" />
 </a>
